@@ -1,4 +1,4 @@
-# cdp-node-journey-test-template
+# cdp-temp-journey-test-2
 
 ## Requirements
 
